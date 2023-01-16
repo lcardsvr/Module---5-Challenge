@@ -38,12 +38,11 @@ It is evident that there is a strong correlation between the Average Tumor Volum
 
 ## Submission
 
-1. Submitted and available in GitHub under https://github.com/lcardsvr/pandas-challenge
+1. Submitted and available in GitHub under https://github.com/lcardsvr/Module---5-Challenge
 
 2. Written report is included in the Readme.md file 
 
-3. Code for the submission is available under https://github.com/lcardsvr/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_starter.ipynb
+3. Code for the submission is available under https://github.com/lcardsvr/Module---5-Challenge/blob/main/Pymaceuticals/pymaceuticals_starter.ipynb
 
-4. Excel verification sheet with matching numbers to the calculations obtained above is available under https://github.com/lcardsvr/pandas-challenge/blob/main/PyCitySchools/Resources/students_complete_Excel_Analysis.xlsm 
 
 
