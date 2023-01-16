@@ -11,27 +11,27 @@ The executive team has tasked you with generating all of the tables and figures 
 
 ## Results and analysis
 
-The instructions were carried out as instructed and the graphs below were obtained. Duplicate data was removed for Mouse g989 and the analysis performed with the remaining data. 
+The instructions were carried out as instructed, and the graphs below were obtained. Duplicate data was removed for Mouse g989, and the analysis was performed with the remaining data. 
 
-There are four main regimes reviewed in the analysis: Capomulin, Ramicane, Infubinol, and Ceftamin.
+The analysis reviewed four main regimes: Capomulin, Ramicane, Infubinol, and Ceftamin.
 
-230 Mice under went treatment with Capomulin, 228 with Ramicane, 178 with Infubinol, and 178 with Ceftamin.
+230 Mice underwent treatment with Capomulin, 228 with Ramicane, 178 with Infubinol, and 178 with Ceftamin.
 
 ![Mice Tester per Drug Regime](Drug_Regimen_Number_Mice_Tested.png)
 
-The prortion of mice tested was almost the same between genders (51% Male and 49% Female)
+The proportion of mice tested was almost the same between genders (51% Male and 49% Female)
 
 ![Male-Female tested percentage](Male_Female_Percentage.png)
 
-The Drug Regimes with the lowest Tumor Volumes over time were Capomulin and Ramicane with final mean tumor volumes of 36.667 mm3 and 36.191 mm3 respectively. The lowest performer was Infubinol with final mean tumor volumes of 57.754 mm3.
+The Drug Regimes with the lowest Tumor Volumes over time were Capomulin and Ramicane, with final mean tumour volumes of 36.667 mm3 and 36.191 mm3, respectively. The lowest performer was Infubinol, with last mean tumour volumes of 57.754 mm3.
 
 ![Box plots Final Tumor Volume per Drug Regime](Box_plot_Final_Tumor_DrugRegime.png)
 
-Volume decrease over time is evident in a mouse undergoing Capomulin treatment as depicted below.
+Volume decrease over time is evident in a mouse undergoing Capomulin treatment, as depicted below.
 
 ![Tumor volume evolution in a Mouse under Capomulin Treatment](Tumor_Vol_time_Capomulin.png)
 
-It is evident that there is a strong correlation between the Average Tumor Volume and the Mice Weight. The correlation between mouse weight and the average tumor volume is 0.84
+There is a strong correlation between the Average Tumor Volume and the Mice’s Weight. The correlation between mouse weight and the average tumour volume is 0.84
 
 ![Relation between Average Tumor Volume vs Mouse Weight](AvgTumorVol_Weight.png)
 
